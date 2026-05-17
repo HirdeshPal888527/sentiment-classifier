@@ -141,6 +141,4 @@ B.Tech – Energy Engineering, IIT Guwahati
 
 ---
 
-## 📄 License
 
-MIT License
